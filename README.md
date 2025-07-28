@@ -14,8 +14,8 @@ The analysis contain:
    - Random Forest
    - Gradient descent
    - KNN
-   - Esenble learning
-   - Future importances
-7. AUC curve
+6. Esenble learning
+7. Future importances
+8. AUC curve analysis
 
 Finally the champion model was Random Forest, getting 0.62253, with that result this model finished in fourth position in the leader board
