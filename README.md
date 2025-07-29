@@ -3,7 +3,7 @@ Kaggle competition. Top 5 Score with Random Forest
 
 In this competition Kaggle encourage us to create a supervised ML model to predict loan defaults, for that propouse one table with 13 columns was provided.
 
-The analysis contain:
+The analysis contains:
 
 1. Review of the table
 2. Train validation split (80-20)
